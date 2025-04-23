@@ -95,4 +95,4 @@ An interactive Power BI dashboard complements the analysis and provides:
 1. Clone the repository
    ```bash
    git clone https://github.com/ZubairKhan87/Data-Driven-Price-Intelligence-for-Airbnb-Marrakes.git
-   cd airbnb-price-prediction-marrakesh
+   cd Data-Driven-Price-Intelligence-for-Airbnb-Marrakes
